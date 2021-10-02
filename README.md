@@ -5,16 +5,16 @@
 ### About:
 I'm good at turning cool stuff into som-ting weird。
 
-<kbd>[<img src="https://img.shields.io/badge/Adobe-Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&labelColor=0a446b&logoWidth=15" x="0.5" y="0.5" width="100" height="95%">](https://dsc.bio/xzadiknobaka)</kbd>
+<kbd>[<img src="https://cutt.ly/PEDQ7ax" x="0.5" y="0.5" width="125" height="95%">](https://cutt.ly/GEDQ9sP)</kbd>
 
 ### Contact:
-* <kbd>[<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" x="0.5" y="0.5" width="70" height="95%">](https://dsc.bio/xzadiknobaka)</kbd>
-* <kbd>[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" x="0.5" y="0.5" width="70" height="95%">](https://twitter.com/XzadikDev)</kbd>
+* <kbd>[<img src="https://cutt.ly/BEDQ3cr" x="0.5" y="0.5" width="70" height="95%">](https://dsc.bio/xzadiknobaka/)</kbd>
+* <kbd>[<img src="https://cutt.ly/NEDQ4qS" x="0.5" y="0.5" width="70" height="95%">](https://twitter.com/XzadikDev/)</kbd>
 
 ### Proud User of:
-<kbd><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" x="0.5" y="0.5" width="70" height="95%"></kbd>
-<kbd><img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" x="0.5" y="0.5" width="45" height="45%"></kbd>
-<kbd><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" x="0.5" y="0.5" width="70" height="95%"></kbd>
-<kbd><img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" x="0.5" y="0.5" width="60" height="85%"></kbd>
+<kbd>[<img src="https://cutt.ly/CEDQ8tT" x="0.5" y="0.5" width="70" height="95%">](https://www.android.com/what-is-android/)</kbd>
+<kbd>[<img src="https://cutt.ly/uEDQ5pT" x="0.5" y="0.5" width="45" height="45%">](https://www.apple.com/ios/)</kbd>
+<kbd>[<img src="https://cutt.ly/TEDQ529" x="0.5" y="0.5" width="70" height="95%">](https://www.microsoft.com/en-us/windows/)</kbd>
+<kbd>[<img src="https://cutt.ly/jEDQ6Kg" x="0.5" y="0.5" width="60" height="85%">](https://www.apple.com/macos/)</kbd>
 
-![My Git-Stats](https://github-readme-stats.vercel.app/api?username=xzadikdev&show_icons=true&theme=synthwave)
+![My Git-Stats](https://cutt.ly/0EDWqP5)
