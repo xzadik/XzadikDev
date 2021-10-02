@@ -10,9 +10,9 @@ I'm good at turning cool stuff into som-ting weird。
 #### 我是个笨蛋:
 <kbd>[<img src="https://cutt.ly/XEDWPY6" x="0.5" y="0.5" width="70" height="95%">]()</kbd>
 <kbd>[<img src="https://cutt.ly/PEDWYVB" x="0.5" y="0.5" width="95" height="100%">]()</kbd>
-<kbd>[<img src="https://cutt.ly/jEDWDcj" x="0.5" y="0.5" width="50" height="60%">]()</kbd>
+<kbd>[<img src="https://cutt.ly/jEDWDcj" x="0.5" y="0.5" width="50" height="80%">]()</kbd>
 <kbd>[<img src="https://cutt.ly/iEDWGLn" x="0.5" y="0.5" width="70" height="95%">]()</kbd>
-<kbd>[<img src="https://cutt.ly/UEDWHPt" x="0.5" y="0.5" width="70" height="95%">]()</kbd>
+<kbd>[<img src="https://cutt.ly/UEDWHPt" x="0.5" y="0.5" width="65" height="95%">]()</kbd>
 
 ### Contact:
 * <kbd>[<img src="https://cutt.ly/BEDQ3cr" x="0.5" y="0.5" width="70" height="95%">](https://dsc.bio/xzadiknobaka/)</kbd>
