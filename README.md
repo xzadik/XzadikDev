@@ -7,7 +7,7 @@ I'm good at turning cool stuff into som-ting weird。
 
 <kbd>[<img src="https://cutt.ly/PEDQ7ax" x="0.5" y="0.5" width="125" height="95%">](https://cutt.ly/GEDQ9sP)</kbd>
 
-#### 我是个笨蛋:
+### 我是个笨蛋:
 <kbd>[<img src="https://cutt.ly/XEDWPY6" x="0.5" y="0.5" width="60" height="90%">](https://cutt.ly/yEDTmSE)</kbd>
 <kbd>[<img src="https://cutt.ly/PEDWYVB" x="0.5" y="0.5" width="86" height="95%">](https://cutt.ly/yEDTmSE)</kbd>
 <kbd>[<img src="https://cutt.ly/jEDWDcj" x="0.5" y="0.5" width="55" height="85%">](https://cutt.ly/yEDTmSE)</kbd>
