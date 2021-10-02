@@ -6,6 +6,6 @@
 I'm good at turning cool stuff into som-ting weird。
 
 ### Contact:
-+ Discord: [>_Xzadik#0002] [dsc.bio/xzadiknobaka]
++ Discord: [>_Xzadik#0002] (dsc.bio/xzadiknobaka)
 
 ![My Git-Stats](https://github-readme-stats.vercel.app/api?username=xzadikdev&show_icons=true&theme=synthwave)
