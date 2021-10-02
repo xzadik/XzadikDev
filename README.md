@@ -9,7 +9,7 @@ I'm good at turning cool stuff into som-ting weird。
 * Discord: [>_Xzadik#0002](https://dsc.bio/xzadiknobaka)
 
 ### Proud User of:
-<kbd> <img src=https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white></kbd>
+<kbd><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></kbd>
 
 
 ![My Git-Stats](https://github-readme-stats.vercel.app/api?username=xzadikdev&show_icons=true&theme=synthwave)
