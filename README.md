@@ -4,7 +4,8 @@
 
 ### About:
 I'm good at turning cool stuff into som-ting weird。
-<kbd>[<img src="https://img.shields.io/badge/Adobe-Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&labelColor=0a446b&logoWidth=15" x="0.5" y="0.5" width="70" height="95%">](https://dsc.bio/xzadiknobaka)</kbd>
+
+<kbd>[<img src="https://img.shields.io/badge/Adobe-Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&labelColor=0a446b&logoWidth=15" x="0.5" y="0.5" width="100" height="95%">](https://dsc.bio/xzadiknobaka)</kbd>
 
 ### Contact:
 * <kbd>[<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" x="0.5" y="0.5" width="70" height="95%">](https://dsc.bio/xzadiknobaka)</kbd>
