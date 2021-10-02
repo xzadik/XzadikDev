@@ -1,6 +1,6 @@
 ## Hello user, welcome to my Github! 
 
-<kbd> <img src="https://i.imgur.com/YWCgQnR.png" x="0.5" y="0.5" width="484" height="99%"></kbd>
+<kbd> [<img src="https://i.imgur.com/YWCgQnR.png" x="0.5" y="0.5" width="484" height="99%">](https://cutt.ly/VEDT34j)</kbd>
 
 ### About:
 I'm good at turning cool stuff into som-ting weird。
