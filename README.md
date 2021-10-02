@@ -21,7 +21,7 @@ I'm good at turning cool stuff into som-ting weird。
 ### Proud User of:
 <kbd>[<img src="https://cutt.ly/CEDQ8tT" x="0.5" y="0.5" width="70" height="95%">](https://www.android.com/what-is-android/)</kbd>
 <kbd>[<img src="https://cutt.ly/uEDQ5pT" x="0.5" y="0.5" width="45" height="45%">](https://www.apple.com/ios/)</kbd>
-<kbd>[<img src="https://cutt.ly/TEDQ529" x="0.5" y="0.5" width="70" height="98%">](https://www.microsoft.com/en-us/windows/)</kbd>
+<kbd>[<img src="https://cutt.ly/TEDQ529" x="0.5" y="0.5" width="72" height="98%">](https://www.microsoft.com/en-us/windows/)</kbd>
 <kbd>[<img src="https://cutt.ly/jEDQ6Kg" x="0.5" y="0.5" width="60" height="85%">](https://www.apple.com/macos/)</kbd>
 
 ![My Git-Stats](https://cutt.ly/0EDWqP5)
