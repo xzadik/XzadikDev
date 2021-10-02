@@ -7,7 +7,9 @@ I'm good at turning cool stuff into som-ting weird。
 
 ### Contact:
 * <kbd>[<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" x="0.5" y="0.5" width="70" height="95%">](https://dsc.bio/xzadiknobaka)</kbd>
+* <kbd>[<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" x="0.5" y="0.5" width="70" height="95%">](https://twitter.com/XzadikDev)</kbd>
 
+https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
 ### Proud User of:
 <kbd><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" x="0.5" y="0.5" width="70" height="95%"></kbd>
 <kbd><img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" x="0.5" y="0.5" width="45" height="45%"></kbd>
