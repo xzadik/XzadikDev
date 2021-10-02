@@ -2,4 +2,4 @@
 
 ![My Git-Stats](https://github-readme-stats.vercel.app/api?username=xzadikdev&show_icons=true&theme=synthwave)
 
-![](https://i.imgur.com/YWCgQnR.png = 75%) >
+![](https://i.imgur.com/YWCgQnR.png =250x250) >
