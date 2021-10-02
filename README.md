@@ -24,4 +24,5 @@ I'm good at turning cool stuff into som-ting weird。
 <kbd>[<img src="https://cutt.ly/TEDQ529" x="0.5" y="0.5" width="72" height="98%">](https://www.microsoft.com/en-us/windows/)</kbd>
 <kbd>[<img src="https://cutt.ly/jEDQ6Kg" x="0.5" y="0.5" width="60" height="85%">](https://www.apple.com/macos/)</kbd>
 
+## Yep.. I'm Bad.
 ![My Git-Stats](https://cutt.ly/0EDWqP5)
