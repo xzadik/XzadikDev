@@ -6,10 +6,10 @@
 I'm good at turning cool stuff into som-ting weird。
 
 ### Contact:
-* <kbd><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></kbd> [>_Xzadik#0002](https://dsc.bio/xzadiknobaka)
+* <kbd><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" x="0.5" y="0.5" width="25" height="80%"></kbd> [>_Xzadik#0002](https://dsc.bio/xzadiknobaka)
 
 ### Proud User of:
-<kbd><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></kbd>
+
 
 
 ![My Git-Stats](https://github-readme-stats.vercel.app/api?username=xzadikdev&show_icons=true&theme=synthwave)
