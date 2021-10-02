@@ -2,7 +2,7 @@
 
 <kbd> [<img src="https://i.imgur.com/YWCgQnR.png" x="0.5" y="0.5" width="484" height="99%">](https://cutt.ly/VEDT34j)</kbd>
 
-### About:
+### 私:
 I'm good at turning cool stuff into som-ting weird。
 
 <kbd>[<img src="https://cutt.ly/PEDQ7ax" x="0.5" y="0.5" width="125" height="95%">](https://cutt.ly/GEDQ9sP)</kbd>
