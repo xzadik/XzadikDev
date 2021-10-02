@@ -25,4 +25,4 @@ I'm good at turning cool stuff into som-ting weird。
 <kbd>[<img src="https://cutt.ly/jEDQ6Kg" x="0.5" y="0.5" width="60" height="85%">](https://www.apple.com/macos/)</kbd>
 
 ### Yep.. I'm Bad.
-![My's GitHub Stats]<href=https://cutt.ly/0EDWqP5> (https://cutt.ly/OEDYmEC)
+![My's GitHub Stats](https://cutt.ly/0EDWqP5)
