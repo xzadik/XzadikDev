@@ -6,7 +6,7 @@
 I'm good at turning cool stuff into som-ting weird。
 
 ### Contact:
-* Discord: [>_Xzadik#0002](https://dsc.bio/xzadiknobaka)
+* <kbd><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></kbd> [>_Xzadik#0002](https://dsc.bio/xzadiknobaka)
 
 ### Proud User of:
 <kbd><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></kbd>
