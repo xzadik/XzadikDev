@@ -7,13 +7,6 @@ I'm good at turning cool stuff into som-ting weird。
 
 <kbd>[<img src="https://cutt.ly/PEDQ7ax" x="0.5" y="0.5" width="125" height="95%">](https://cutt.ly/GEDQ9sP)</kbd>
 
-### 我是个笨蛋:
-<kbd>[<img src="https://cutt.ly/XEDWPY6" x="0.5" y="0.5" width="64" height="90%">](https://cutt.ly/SEDCCwt)</kbd>
-<kbd>[<img src="https://cutt.ly/jEDWDcj" x="0.5" y="0.5" width="55" height="85%">](https://cutt.ly/qEDCVKt)</kbd>
-<kbd>[<img src="https://cutt.ly/PEDWYVB" x="0.5" y="0.5" width="87" height="95%">](https://cutt.ly/WEDCNkc)</kbd>
-<kbd>[<img src="https://cutt.ly/iEDWGLn" x="0.5" y="0.5" width="70" height="95%">](https://cutt.ly/8EDCM52)</kbd>
-<kbd>[<img src="https://cutt.ly/UEDWHPt" x="0.5" y="0.5" width="63" height="95%">](https://cutt.ly/cEDC2jH)</kbd>
-
 ### Contact:
 * <kbd>[<img src="https://cutt.ly/BEDQ3cr" x="0.5" y="0.5" width="70" height="95%">](https://dsc.bio/xzadiknobaka/)</kbd>
 * <kbd>[<img src="https://cutt.ly/NEDQ4qS" x="0.5" y="0.5" width="70" height="95%">](https://twitter.com/XzadikDev/)</kbd>
@@ -23,6 +16,13 @@ I'm good at turning cool stuff into som-ting weird。
 <kbd>[<img src="https://cutt.ly/uEDQ5pT" x="0.5" y="0.5" width="45" height="45%">](https://www.apple.com/ios/)</kbd>
 <kbd>[<img src="https://cutt.ly/TEDQ529" x="0.5" y="0.5" width="72" height="98%">](https://www.microsoft.com/en-us/windows/)</kbd>
 <kbd>[<img src="https://cutt.ly/jEDQ6Kg" x="0.5" y="0.5" width="60" height="85%">](https://www.apple.com/macos/)</kbd>
+
+### 我是个笨蛋:
+<kbd>[<img src="https://cutt.ly/XEDWPY6" x="0.5" y="0.5" width="64" height="90%">](https://cutt.ly/SEDCCwt)</kbd>
+<kbd>[<img src="https://cutt.ly/jEDWDcj" x="0.5" y="0.5" width="55" height="85%">](https://cutt.ly/qEDCVKt)</kbd>
+<kbd>[<img src="https://cutt.ly/PEDWYVB" x="0.5" y="0.5" width="87" height="95%">](https://cutt.ly/WEDCNkc)</kbd>
+<kbd>[<img src="https://cutt.ly/iEDWGLn" x="0.5" y="0.5" width="70" height="95%">](https://cutt.ly/8EDCM52)</kbd>
+<kbd>[<img src="https://cutt.ly/UEDWHPt" x="0.5" y="0.5" width="63" height="95%">](https://cutt.ly/cEDC2jH)</kbd>
 
 ### Yep.. I'm Bad.
 <kbd>[<img src="https://cutt.ly/0EDWqP5" x="0.5" y="0.5" width="484" height="95%">](https://cutt.ly/OEDYmEC)</kbd>
