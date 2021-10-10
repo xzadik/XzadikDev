@@ -8,7 +8,7 @@ I'm good at turning cool stuff into som-ting weird。
 <kbd>[<img src="https://cutt.ly/PEDQ7ax" x="0.5" y="0.5" width="125" height="95%">](https://cutt.ly/GEDQ9sP)</kbd>
 
 ### Contact:
-* <kbd>[<img src="https://cutt.ly/BEDQ3cr" x="0.5" y="0.5" width="70" height="95%">](https://dsc.bio/xzadiknobaka/)</kbd> <kbd> [<img src="https://cutt.ly/0E3UePN">](https://github.com/XzadikDev)</kbd>
+* <kbd>[<img src="https://cutt.ly/BEDQ3cr" x="0.5" y="0.5" width="70" height="95%">](https://dsc.bio/xzadiknobaka/)</kbd>
 * <kbd>[<img src="https://cutt.ly/NEDQ4qS" x="0.5" y="0.5" width="70" height="95%">](https://twitter.com/XzadikDev/)</kbd>
 
 ### Proud User of:
@@ -28,3 +28,4 @@ I'm good at turning cool stuff into som-ting weird。
 <kbd>[<img src="https://cutt.ly/0EDWqP5" x="0.5" y="0.5" width="484" height="95%">](https://cutt.ly/OEDYmEC)</kbd>
 
 <kbd> [<img src="https://komarev.com/ghpvc/?username=xzadikdev">](https://github.com/XzadikDev)</kbd>
+<kbd> [<img src="https://cutt.ly/0E3UePN">](https://github.com/XzadikDev)</kbd>
