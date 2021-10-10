@@ -1,7 +1,7 @@
 ## Hello user, welcome to my Github! 
 
-<kbd> [<img src="https://komarev.com/ghpvc/?username=xzadikdev"](https://github.com/XzadikDev)</kbd>
-<kbd> [<img src="https://cutt.ly/0E3UePN"](https://github.com/XzadikDev)</kbd>
+<kbd> [<img src="https://komarev.com/ghpvc/?username=xzadikdev">](https://github.com/XzadikDev)</kbd>
+<kbd> [<img src="https://cutt.ly/0E3UePN">](https://github.com/XzadikDev)</kbd>
 
 <kbd> [<img src="https://i.imgur.com/YWCgQnR.png" x="0.5" y="0.5" width="484" height="99%">](https://cutt.ly/VEDT34j)</kbd>
 
