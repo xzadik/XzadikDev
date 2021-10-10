@@ -29,3 +29,4 @@ I'm good at turning cool stuff into som-ting weird。
 
 <kbd> [<img src="https://komarev.com/ghpvc/?username=xzadikdev">](https://github.com/XzadikDev)</kbd>
 <kbd> [<img src="https://cutt.ly/0E3UePN">](https://github.com/XzadikDev)</kbd>
+<kbd> [<img src="https://img.shields.io/github/last-commit/xzadikdev">](https://github.com/XzadikDev)</kbd>
