@@ -28,5 +28,4 @@ I'm good at turning cool stuff into som-ting weird。
 <kbd>[<img src="https://cutt.ly/0EDWqP5" x="0.5" y="0.5" width="484" height="95%">](https://cutt.ly/OEDYmEC)</kbd>
 
 <kbd> [<img src="https://komarev.com/ghpvc/?username=xzadikdev">](https://github.com/XzadikDev)</kbd>
-<kbd> [<img src="https://cutt.ly/0E3UePN">](https://github.com/XzadikDev)</kbd>
 <kbd> [<img src="https://img.shields.io/github/last-commit/xzadikdev/xzadikdev">](https://github.com/XzadikDev)</kbd>
